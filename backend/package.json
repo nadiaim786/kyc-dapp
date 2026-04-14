@@ -1,0 +1,11 @@
+{
+  "name": "kyc-backend",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.0.0",
+    "nodemailer": "^6.9.0",
+    "ethers": "^6.0.0",
+    "crypto": "^1.0.1",
+    "cors": "^2.8.5"
+  }
+}
